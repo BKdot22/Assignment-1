@@ -1,0 +1,2 @@
+git remote add origin https://github.com/Programming-Metholodogy-II-Fa18/assignment-1-BKdot22.git
+git push -u origin master
